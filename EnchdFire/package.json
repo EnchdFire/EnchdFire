@@ -1,0 +1,9 @@
+{
+  "name": "enchd-fire",
+  "version": "0.0.0",
+  "description": "EnchdFire",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
